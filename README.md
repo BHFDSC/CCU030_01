@@ -1,16 +1,16 @@
-# Intellectual disabilities (title TBC)
+# Understanding covid-19 outcomes among people with Intellectual Disabilities in England
 
 ## Project description
 
 Description will be added here.
 
 ## How to cite this work
-> Citation to follow
+> Citation details to follow
 
-## Code
+## Contents
 
-* Click [here] to view the analysis code used in NHS Digital's TRE for England.
-* Phenotyping algorithms and codelists used in NHS Digital's TRE for England are available [here]
+* [View the analysis code used in NHS England's TRE for England](https://github.com/BHFDSC/CCU030_01/tree/main/code)
+* [View the phenotyping algorithms and codelists used in NHS England's TRE for England](https://github.com/BHFDSC/CCU030_01/tree/main/phenotypes)
 
 ## Project approval
 
