@@ -1,4 +1,6 @@
-# Understanding covid-19 outcomes among people with Intellectual Disabilities in England
+# Understanding covid-19 outcomes among people with intellectual disabilities in England
+
+**Filip Sosenko, Daniel Mackay, Jill P. Pell, Chris Hatton, Bhautesh D. Jani, Deborah Cairns, Laura Ward, Angela Henderson, Michael Fleming, Dewy Nijhof, Craig Melville, on behalf of the CVD-COVID-UK/COVID-IMPACT Consortium**
 
 ## Project description
 
@@ -8,18 +10,18 @@ The aim of this study was to address the limitations of existing studies by accu
 
 This project aims to address the gaps and limitations in research outlined above. Specifically, the research questions were: 
 
-•	How does covid-19 mortality and hospitalisations among people with ID compare with that of people without ID?
-•	Are there significant differences in the associations between clinical risk factors and risk of hospitalisation and death following SARS-CoV-2 infection in people with and without ID?
-•	Which factors are key drivers of severe covid-19, in both the ID and non-ID populations?
-•	What factors are responsible for the higher probability of severe covid-19 among people with ID?
+* How does covid-19 mortality and hospitalisations among people with ID compare with that of people without ID?
+* Are there significant differences in the associations between clinical risk factors and risk of hospitalisation and death following SARS-CoV-2 infection in people with and without ID?
+* Which factors are key drivers of severe covid-19, in both the ID and non-ID populations?
+* What factors are responsible for the higher probability of severe covid-19 among people with ID?
 
 ## How to cite this work
-> Citation details to follow
+> Sosenko, F., Mackay, D., Pell, J.P. et al. Understanding covid-19 outcomes among people with intellectual disabilities in England. BMC Public Health 23, 2099 (2023). https://doi.org/10.1186/s12889-023-16993-x
 
 ## Contents
 
-* [View the analysis code used in NHS England's TRE for England](https://github.com/BHFDSC/CCU030_01/tree/main/code)
-* [View the phenotyping algorithms and codelists used in NHS England's TRE for England](https://github.com/BHFDSC/CCU030_01/tree/main/phenotypes)
+* [View the analysis code used in NHS England's SDE for England](https://github.com/BHFDSC/CCU030_01/tree/main/code)
+* [View the phenotyping algorithms and codelists used in NHS England's SDE for England](https://github.com/BHFDSC/CCU030_01/tree/main/phenotypes)
 
 ## Project approval
 
